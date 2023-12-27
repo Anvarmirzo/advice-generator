@@ -1,0 +1,13 @@
+:root {
+    --dark-blue: #202733;
+    --dark-grayish-blue: #313A48;
+    --grayish-blue: #4F5D74;
+    --neon-green: #53FFAA;
+    --light-cyan: #CEE3E9;
+}
+
+html {
+    background-color: var(--dark-blue);
+    font-family: 'Manrope', sans-serif;
+    font-size: 100%;
+}
